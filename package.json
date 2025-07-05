@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-cicd-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to demonstrate CI/CD with Jenkins and Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Utsav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
